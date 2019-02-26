@@ -31,3 +31,5 @@ StringUtils.capitalize("'cat'") = "'cat'"
 Note:
 
 WordUtils is also included in this library, but is deprecated. Please do not use that.
+
+Link: https://commons.apache.org/proper/commons-lang/
